@@ -58,7 +58,7 @@ The analysis uses structured business data, including:
 
 ---
 
-## 🏁 **How to Use**
+## **How to Use**
 ### **Option 1: Tableau Public**
 1. **[View the live dashboard here](https://public.tableau.com/app/profile/adwoa.marfo3855/viz/SalesCustomerDashboardsDynamic_17312705280340/SalesDashboard)**  
 2. Use filters/slicers to explore data.  
