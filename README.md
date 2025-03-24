@@ -2,6 +2,7 @@
 
 **A data visualization project with Tableau to analyze sales performance, customer behavior, and business trends, enabling data-driven decision-making for executives and management.**
 
+![Dashboard Preview](/images/dashboard-screenshot.png)
 <img width="1204" alt="Screenshot 2025-02-06 at 15 57 11" src="https://github.com/user-attachments/assets/1fe22a1a-4919-4040-bc79-ff62fa778abd" />
 
 <img width="1204" alt="Screenshot 2025-02-06 at 15 57 29" src="https://github.com/user-attachments/assets/d1cd0475-d91a-45ad-af6d-4ae1504f6005" />
